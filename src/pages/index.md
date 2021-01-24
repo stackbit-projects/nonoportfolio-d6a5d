@@ -22,7 +22,7 @@ sections:
       background_image: images/background.svg
       background_image_opacity: 20
       background_image_size: cover
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
   - type: features_section
     title: Features
     features:
